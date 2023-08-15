@@ -17,7 +17,7 @@ instead.
 4. [What Companies Want](preparing_for_job_search/what_companies_want.md)
 5. [What You Can Do To Prepare](preparing_for_job_search/what_you_can_do_to_prepare.md)
 6. [**Project: Building Your Personal Website**](preparing_for_job_search/project_portfolio.md)
-### Applying to and Interviewing for Jobs
+#### Applying to and Interviewing for Jobs
 
 1. [Collecting Job Leads](applying_and_interviewing/collect_leads.md)
 2. [Qualifying Job Leads](applying_and_interviewing/qualify_leads.md)
